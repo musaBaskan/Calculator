@@ -29,7 +29,7 @@ Bu uygulama Python'un Tkinter kütüphanesini kullanır. Tkinter genellikle Pyth
     ```
 3. Python dosyasını çalıştırın:
     ```bash
-    python hesap_makinesi.py
+    python calculator.py
     ```
 
 4. Uygulama açıldığında, ekrandaki sayılara tıklayarak ve işlemleri seçerek hesaplama yapabilirsiniz. 
